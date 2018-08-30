@@ -1,3 +1,3 @@
-function BoardMember () {
-  
+function BoardMember (this) {
+
 };
